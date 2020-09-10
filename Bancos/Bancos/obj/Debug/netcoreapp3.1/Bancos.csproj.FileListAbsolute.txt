@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\bin\Debug\netcoreapp3.1\Bancos.exe
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\bin\Debug\netcoreapp3.1\Bancos.deps.json
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\bin\Debug\netcoreapp3.1\Bancos.runtimeconfig.json
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\bin\Debug\netcoreapp3.1\Bancos.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\bin\Debug\netcoreapp3.1\Bancos.dll
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\bin\Debug\netcoreapp3.1\Bancos.pdb
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\obj\Debug\netcoreapp3.1\Bancos.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\obj\Debug\netcoreapp3.1\Bancos.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\obj\Debug\netcoreapp3.1\Bancos.AssemblyInfo.cs
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\obj\Debug\netcoreapp3.1\Bancos.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\obj\Debug\netcoreapp3.1\Bancos.dll
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\obj\Debug\netcoreapp3.1\Bancos.pdb
+C:\Users\HP\source\repos\Promedio\Bancos\Bancos\obj\Debug\netcoreapp3.1\Bancos.genruntimeconfig.cache
